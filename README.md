@@ -1,2 +1,0 @@
-# Yoipizza
-Created with CodeSandbox
